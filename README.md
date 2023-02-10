@@ -7,4 +7,6 @@
 [![Replit](https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white)](https://replit.com/@WindsorWIND)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUjfTNtPhTsbdCkpDhuRDaw)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=windsorrafacho&show_icons=true&theme=dark)
+![Windsor GitHub stats](https://github-readme-stats.vercel.app/api?username=windsorrafacho&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=windsorrafacho&layout=compact)](https://github.com/windsorrafacho/github-readme-stats)
